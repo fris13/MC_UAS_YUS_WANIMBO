@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565990937804",
+    "project_id": "mcyus-21c3a",
+    "storage_bucket": "mcyus-21c3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565990937804:android:7a881e18260a7ab55d5e69",
+        "android_client_info": {
+          "package_name": "com.example.mcyus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYdutL0iedKfyLsxqaGARQbtdXikoiGi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
